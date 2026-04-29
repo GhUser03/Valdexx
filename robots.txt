@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /exchange/
+
+Sitemap: https://valdex.me/sitemap.xml
